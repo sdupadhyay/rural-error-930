@@ -21,4 +21,10 @@
 -  `JAVA SCRIPT`
 -  `HTML`
 -  `CSS`
+## Snapshot
+
+![booking](https://user-images.githubusercontent.com/104014308/188278962-d6006f9a-c3d7-49f8-b2ec-2c560440f941.JPG)
+![booking1](https://user-images.githubusercontent.com/104014308/188279143-f71affe1-ccf5-4b51-ab87-642db5c32f0e.PNG)
+![booking2](https://user-images.githubusercontent.com/104014308/188279238-1efb8317-7d59-448b-8d28-201c3421dda9.JPG)
+
 
