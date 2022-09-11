@@ -38,5 +38,6 @@ https://clever-churros-0ca8ea.netlify.app/
 -  `JAVA SCRIPT`
 -  `HTML`
 -  `CSS`
+-  `JSON SERVER`
 
 
