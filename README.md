@@ -21,7 +21,8 @@
 ![booking2](https://user-images.githubusercontent.com/104014308/188279238-1efb8317-7d59-448b-8d28-201c3421dda9.JPG)
 
 ## Deployed Link
-https://clever-churros-0ca8ea.netlify.app/
+
+https://booking-com-clone.netlify.app/
 
 ## Pages & Features
 - Home Page(Stays)
